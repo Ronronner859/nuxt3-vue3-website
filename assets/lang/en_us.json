@@ -1,0 +1,764 @@
+{
+  "shop": {
+    "seo": {
+      "title": "Albany Park Home",
+      "ogTitle": "This is an enterprise SEO official website template that integrates Nuxt3, Nuxt3, tailwindcss, and vuetify responsive official website templates",
+      "description": "Explore our open-source Nuxt3 and Vue3 responsive template official website, designed specifically for website developers pursuing high performance, SEO optimization, and flexible customization. Quickly launch your modern enterprise level official website project, enjoy a seamless development experience, and help developers quickly build modern, search engine friendly websites.",
+      "ogDescription": "We are the world's top sofas, the best sofas in China, wholesale sofas in Shenzhen, selling all kinds of furniture, making your villa full of warmth and modernity."
+    },
+    "appBar": {
+      "title": [
+        {
+          "link": "/",
+          "name": "SHOP"
+        },
+        {
+          "link": "/videos",
+          "name": "VIDEOS"
+        },
+        {
+          "link": "/our-story",
+          "name": "OUR STORY"
+        },
+        {
+          "link": "/faq",
+          "name": "FAQ"
+        },
+        {
+          "link": "/contact-us",
+          "name": "CONTACT US"
+        }
+      ]
+    },
+    "body": {
+      "photos": [
+        {
+          "id": "0",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/0802dfa7291d4ad9701a.jpg"
+        },
+        {
+          "id": "1",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/273827455_10160367429837668_8648767521590626263_n.webp"
+        },
+        {
+          "id": "2",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__ashleywalseman.webp"
+        },
+        {
+          "id": "3",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__becominghomebody.webp"
+        },
+        {
+          "id": "4",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__emilywondree.webp"
+        },
+        {
+          "id": "5",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__emilywondree2.webp"
+        },
+        {
+          "id": "6",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__glamorouslyliving_.webp"
+        },
+        {
+          "id": "7",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__halfwaywholeistic_.webp"
+        },
+        {
+          "id": "8",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__johnston.designs_.jpeg"
+        },
+        {
+          "id": "9",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/_decoratingnewbuild__.webp"
+        },
+        {
+          "id": "10",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/_jamiesyang.webp"
+        },
+        {
+          "id": "11",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/d09ec57756e08dd0ed21.jpg"
+        }
+      ],
+      "featured": "FEATURED IN",
+      "choose": {
+        "title1": "Choose your favorite style.",
+        "title2": "OUR COLLECTIONS WERE DESIGNED WITH EVERYONE IN MIND.",
+        "shopList": [
+          {
+            "id": 1,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_kova_sale_448x384.jpg",
+            "title": "Kova",
+            "star": 4.8,
+            "price": "$1,389",
+            "monthPrice": "$116",
+            "fabric": "12 Fabric Options",
+            "leg": "Modular Configurations",
+            "shop": "Shop Kova"
+          },
+          {
+            "id": 2,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_lido_sale_448x384.webp",
+            "title": "Lido",
+            "star": 5,
+            "price": "$1,359",
+            "monthPrice": "$114",
+            "fabric": "10 Fabric Options",
+            "leg": "4 Leg Options",
+            "shop": "Shop Lido"
+          },
+          {
+            "id": 3,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_barton_sale_448x384.webp",
+            "title": "Barton",
+            "star": 5,
+            "price": "$1,550",
+            "monthPrice": "$130",
+            "fabric": "10 Fabric Options",
+            "leg": "3 Leg Options",
+            "shop": "Shop Barton"
+          },
+          {
+            "id": 4,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_park_sale_c7d19cc0-2bd0-4ba5-a7eb-aafe666565d6_448x384.webp",
+            "title": "Park",
+            "star": 4.8,
+            "price": "$1,249",
+            "monthPrice": "$113",
+            "fabric": "8 Fabric Options",
+            "leg": "2 Leg Options",
+            "shop": "Shop Park"
+          },
+          {
+            "id": 5,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_albany_sale_448x384.webp",
+            "title": "Albany",
+            "star": 4.8,
+            "price": "$1,149",
+            "monthPrice": "$105",
+            "fabric": "8 Fabric Options",
+            "leg": "2 Leg Options",
+            "shop": "Shop Albany"
+          }
+        ],
+        "shopIcons": [
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_HighQualityMaterials_d1edb708-e0a5-4eaa-9455-28b5d40c29d3_96x96.avif",
+            "id": 1,
+            "title": "High Quality Materials",
+            "text": "The Albany Park is handmade using hardwood frames, high end fabrics and premium foam & feather cushioning."
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_96x96.avif",
+            "id": 2,
+            "title": "Fast + Free Delivery",
+            "text": "Delivered for free to your curbside in apartment-friendly boxes. Return it within 30 days, no questions asked."
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TopRated_9529d4c2-833e-4003-909d-a47c44db09b4_96x96.avif",
+            "id": 3,
+            "title": "Top Rated",
+            "text": "#1 in customer happiness. We're half the price of competitors and twice as cozy (& gorgeous) – what's not to love?"
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_AwardWinningCustomerService_078866f3-e0b6-4b76-b284-9fb34a19ea1c_96x96.avif",
+            "id": 4,
+            "title": "A+ Customer Service",
+            "text": "We are fully dedicated to serving you at every step. We are always just a text, call or chat away. Say hello!"
+          }
+        ]
+      },
+      "myAlbanyPark": {
+        "title": "#MyAlbanyPark",
+        "subtitle": "Share your Albany Park style with us and get inspired! Add Your Photo",
+        "unique_title": "What makes Albany Park unique?",
+        "unique_subtitle": "Designed without compromise.",
+        "unique_text1": "Albany Park is designed to be lived in, loved on, used often and enjoyed. Our comfortable curated collections and beautiful yet durable fabrics ensure quality beyond compare. Because when it comes to cozy, you should never compromise.",
+        "unique_text2": "Be comfortable. Be beautiful. Be at home.",
+        "apart_title": "What else sets Albany Park apart?",
+        "icon_title": "Owning quality furniture couldn't get any easier."
+      },
+      "qualityIcons": [
+        {
+          "id": 1,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_128x128.webp",
+          "title": "Fast + Free Shipping"
+        },
+        {
+          "id": 2,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x128.webp",
+          "title": "Easy Assembly"
+        },
+        {
+          "id": 3,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_PayOverTime_bdd0257b-3cfe-4183-b0e7-e65f6712e646_128x128.webp",
+          "title": "Pay Over Time"
+        },
+        {
+          "id": 4,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_Moveable_c0b302bb-ac2c-4b7b-aa83-93cdf27d0b1d_128x128.webp",
+          "title": "Easy To Move"
+        },
+        {
+          "id": 5,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TotalComfort_048bf982-21e0-4159-971f-fa91a93f9e41_128x128.webp",
+          "title": "Complete Comfort"
+        },
+        {
+          "id": 6,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_30DayInHomeTrial_c33c4fb9-87a1-47a7-b496-366ba1fbd330_128x128.webp",
+          "title": "30-Day, In-Home Trial"
+        },
+        {
+          "id": 7,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x128.webp",
+          "title": "Lifetime Warranty"
+        }
+      ],
+      "assemble_card": {
+        "assemble_title": "Easy to Move + Assemble",
+        "assemble_text1": "Albany Park furniture comes packaged in apartment-friendly, space-conscious boxes that can easily be maneuvered in stairwells, tight hallways and throughout any home. It literally takes 15 minutes to assemble an Albany Park - we promise!",
+        "assemble_text2": "Watch how easy it is.",
+        "coziness_title": "Delivering Coziness",
+        "coziness_text": "Get ready to embrace tremendous comfort! We want you to love your Albany Park furniture and know it can take a few days to get acquainted with your new sofa. Take 30 days to lounge around. If you’re not swept off your feet, we’ll take everything back, no questions asked."
+      },
+      "buyer": [
+        {
+          "id": 1,
+          "imageUrl": "http://cdn.shopifycdn.net/s/files/1/0074/7077/6371/files/Review_Image_Kova_80x80.jpg",
+          "text": "\"I think I love this couch more than anything else in the entire world (besides my husband and my dogs of course).\"",
+          "title": "– Chelsea O. (Verified Buyer)"
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://cdn.shopifycdn.net/s/files/1/0074/7077/6371/files/Review_Image_Barton_80x80.jpg",
+          "text": "\"100% zero regrets that we went with the Barton from Albany Park! It is so spacious, easy to clean, and soft.\"",
+          "title": "– River W. (Verified Buyer)"
+        }
+      ],
+      "popular": [
+        {
+          "id": 1,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-L-SHAPE-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova L-Shape + Ottoman",
+          "price": "$3,345",
+          "discount": "$2,499"
+        },
+        {
+          "id": 2,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/LIDO_20SOFA_2086_384x352.webp",
+          "title": "Lido Sofa 86\"",
+          "price": "$1,659",
+          "discount": "$1,394 "
+        },
+        {
+          "id": 3,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/barton-storm-grey-walnut_384x352.png",
+          "title": "Barton Sofa",
+          "price": "$1,659",
+          "discount": "$1,394"
+        },
+        {
+          "id": 4,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/hom  e/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVAPIT-boucle_384x352.webp",
+          "title": "Kova Pit",
+          "price": "$3,994",
+          "discount": "$2,994"
+        },
+        {
+          "id": 5,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/2030.FS30.CN1_384x352.png",
+          "title": "Lido Armchair",
+          "price": "$1,019",
+          "discount": "$864"
+        },
+        {
+          "id": 6,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-SOFA-84-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova Sofa 8ó\" + Ottoman",
+          "price": "$2,047",
+          "discount": "$1,534"
+        },
+        {
+          "id": 7,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-SOFA-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova Sofa 122\"+Ottoman",
+          "price": "$2,696",
+          "discount": "$1,994"
+        },
+        {
+          "id": 8,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/lido-hazelnut-boucle-brass_384x352.webp",
+          "title": "Lido Sofa 75\"",
+          "price": "$1,459",
+          "discount": "$1,164"
+        },
+        {
+          "id": 9,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-sectional-sofa_distressed-vegan-leather-black-right-facing_1b_384x352.png",
+          "title": "Park Sectional Sofa",
+          "price": "$2,089",
+          "discount": "$1,459"
+        },
+        {
+          "id": 10,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-sofa_boucle-gold_1b_384x352.webp",
+          "title": "Park Sofa",
+          "price": "$1,289",
+          "discount": "$899"
+        },
+        {
+          "id": 11,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-armchair-grey-fabric-gold-front-b_384x352.webp",
+          "title": "Park Armchair",
+          "price": "$789",
+          "discount": "$549"
+        },
+        {
+          "id": 12,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-L-SHAPE-white-boucle_384x352.webp",
+          "title": "Kova L-Shape",
+          "price": "$2,796",
+          "discount": "$2,094"
+        }
+      ],
+      "brandIcons": [
+        {
+          "id": 1,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x96.webp",
+          "title": "Quick, Easy Assembly",
+          "text": "Assembly is a cinch. It literally takes just 15 minutes (or less). Seriously. Watch our videos to see how easy it is."
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x96.webp",
+          "title": "Lifetime Warranty",
+          "text": "We guarantee Albany Park for as long as you own the furniture. We stand proudly behind the craftsmanship of our pieces."
+        },
+        {
+          "id": 3,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_InterestFreeFinancing_f7ed2c5a-09c6-493b-b43d-731518c2b7ff_128x96.webp",
+          "title": "Interest Free Financing",
+          "text": "Place an order today and pay for it over time with our partner, Affirm. Choose a six-month plan and pay zero interest. Learn more..."
+        }
+      ]
+    },
+    "collections": {
+      "kova": {
+        "october": [
+          {
+            "text": "Custom Made to Order"
+          },
+          {
+            "text": "Handmade in North America"
+          },
+          {
+            "text": "Contract-Grade"
+          },
+          {
+            "text": "Lifetime Warranty"
+          }
+        ],
+        "features": [
+          {
+            "text": "Our newly improved cloud-like cushions maximize comfort with an exceptionally soft, hypoallergenic microfiber fill"
+          },
+          {
+            "text": "Industry-best lead time for custom furniture, ships in days from our factory in North America"
+          },
+          {
+            "text": "New anti-slip seat cushions stay in place with every sit"
+          },
+          {
+            "text": "Removable, cleanable seat cushions with kid and pet-friendly fabric options let you lounge without worry"
+          },
+          {
+            "text": "Back cushions are fully reversible and cleanable for a quick, easy refresh"
+          },
+          {
+            "text": "Sturdy frame crafted from durable contract-grade wood"
+          },
+          {
+            "text": "Sofa base combines foam-topped comfort with high performance suspension"
+          },
+          {
+            "text": "100% vegan and cruelty-free"
+          },
+          {
+            "text": "Shipped in easy-to-move, 100% recyclable boxesy"
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "seo": {
+      "title": "Albany Park Video",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "Showcasing the introduction of China's top sofas, the video introduces how easy it is to purchase and install the Albany sofa. This sofa has the advantages of being lightweight, wear-resistant, and exquisite"
+    },
+    "items": [
+      {
+        "id": 1,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/KOVA_ASSEMBLYVIDEO_928x672_1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/lbOmcCR3CvA?&loop=1",
+        "title": "Kova Assembly",
+        "text": "The world’s most comfortable sofa is also a breeze to put together. Sit back, relax and watch how easy it is to assemble your new Kova Sofa. Just slide the back and arms onto the steel brackets, place the cushions on top, then get cozy!"
+      },
+      {
+        "id": 2,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Cover_image_Barton_v1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/0g4bhtpna5A?&loop=1",
+        "title": "Barton Assembly",
+        "text": "The Barton is stylish, comfortable and so easy to put together! All you need is just a few minutes. But don't just take our word for it — watch us assemble the Barton and check it for yourself. Plus, the Barton is shipped in apartment-friendly boxes that can easily be maneuvered throughout any home."
+      },
+      {
+        "id": 3,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Cover_image_Lido_v1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/6m3UMbL4Zkc?&loop=1",
+        "title": "Lido Assembly",
+        "text": "Every Lido comes packaged in apartment-friendly, space-conscious boxes you can maneuver in stairwells, tight hallways and throughout any home. It takes about 5 minutes to assemble — seriously. Just unbox, lock the pieces together and get cozy."
+      },
+      {
+        "id": 4,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Screen_Shot_2019-08-08_at_11.29.56_AM_480x288.webp",
+        "videoUrl": "http://www.youtube.com/embed/9zyDnnGrY_I?&loop=1",
+        "title": "Albany Assembly",
+        "text": "Albany Assembly\nAt 9-months pregnant, our co-founder Jessica assembles an Albany sofa by herself. Albany Park furniture comes packaged in apartment-friendly, space-conscious boxes that can easily be maneuvered in stairwells, tight hallways and throughout any home. It literally takes 15 minutes to assemble an Albany Park — watch Jessica!"
+      },
+      {
+        "id": 5,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/PARK_ASSEMBLYVIDEO_4413c0c7-c484-48bc-9b2e-c0f22ac8e29a_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/V5_Go8ku7qo?&loop=1",
+        "title": "Park Assembly",
+        "text": "Assembling the Park Sofa couldn’t be any easier. Just unpack, lock the pieces together, and you'll be enjoying your brand new sofa in just a few minutes! The Park Sofa Collection arrives quickly in easy-to-move boxes intentionally designed to maneuver through tight spaces."
+      }
+    ],
+    "qualityIcons": [
+      {
+        "id": 1,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_128x128.webp",
+        "title": "Fast + Free Shipping"
+      },
+      {
+        "id": 2,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x128.webp",
+        "title": "Easy Assembly"
+      },
+      {
+        "id": 3,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_PayOverTime_bdd0257b-3cfe-4183-b0e7-e65f6712e646_128x128.webp",
+        "title": "Pay Over Time"
+      },
+      {
+        "id": 4,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_Moveable_c0b302bb-ac2c-4b7b-aa83-93cdf27d0b1d_128x128.webp",
+        "title": "Easy To Move"
+      },
+      {
+        "id": 5,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_NoHarshChemicals_4d19ab2f-80a6-4e08-aaa1-f74b23d4ef04_96x96.avif",
+        "title": "No Harsh Chemicals"
+      },
+      {
+        "id": 6,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TotalComfort_048bf982-21e0-4159-971f-fa91a93f9e41_128x128.webp",
+        "title": "Complete Comfort"
+      },
+      {
+        "id": 7,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_30DayInHomeTrial_c33c4fb9-87a1-47a7-b496-366ba1fbd330_128x128.webp",
+        "title": "30-Day, In-Home Trial"
+      },
+      {
+        "id": 8,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x128.webp",
+        "title": "Lifetime Warranty"
+      }
+    ]
+  },
+  "our_story": {
+    "seo": {
+      "title": "Our Story",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "Our story is that this sofa comes with a lifetime warranty that guarantees excellent craftsmanship and lasting peace of mind, making the home even more comfortable and beautiful."
+    },
+    "items": [
+      {
+        "id": 0,
+        "title": "Our Story",
+        "text": [
+          "Jessica Ross needed a new sofa. And with a busy household, she wanted something well-made, comfortable, durable … and still beautiful.",
+          "She tried designer showrooms but was let down by the hundreds of bland, overpriced, overproduced options — not to mention the unwelcome pressure from the salespeople. If the furniture was affordable, it would be poor quality. If it was higher quality, it would be overpriced. If it was custom-made to fit her family, it would take months to arrive.",
+          "Leaving empty-handed and full of frustration, Jessica knew there had to be a better way. If she couldn’t find a company that offered everything she needed, she would create one that did."
+        ],
+        "special": ""
+      },
+      {
+        "id": 1,
+        "title": "And Albany Park was born.",
+        "text": [
+          "Jessica had a simple goal for Albany Park: No more compromises. No more pressure. No more letdowns and weeks of waiting. No more cheaply made products that end up in landfills. Just carefully curated collections featuring on-trend designs, high-quality construction you could trust, and prices everyone could afford but not every manufacturer could deliver.",
+          "And she knew she needed a manufacturing partner who could make her dream a reality."
+        ],
+        "special": ""
+      },
+      {
+        "id": 2,
+        "title": "She found that in Exemplis.",
+        "text": [
+          "For nearly 30 years, Exemplis has been a trusted leader in the commercial furniture industry, offering custom-built, made-to-order, contract-grade products that stand up to the wear and tear of life. Their furniture is designed in California, handcrafted in their own factories in North America, and shipped to customers in days (not months).",
+          "Whether it’s kids, dogs, friends, or neighbors … furniture is where family gathers. It’s the heart of your home. And we take pride in helping you create that with livable, lovable, long-lasting collections."
+        ],
+        "special": ""
+      },
+      {
+        "id": 3,
+        "title": "We believe you should never have to compromise.",
+        "text": [
+          "And that’s why we offer value beyond compare. Our furniture expertise and manufacturing process deliver unparalleled quality that is made to order in North America and built to last using contract-grade standards … all at a fraction of the time and cost of leading competitors.",
+          "Your furniture should be made for life — not for a landfill. Our lifetime warranty guarantees quality craftsmanship and lasting peace of mind.",
+          "Because you deserve something well-made, comfortable, durable … all while looking incredible."
+        ],
+        "special": "Be comfortable. Be beautiful. Be at home."
+      }
+    ]
+  },
+  "faq": {
+    "seo": {
+      "title": "Technical Support Q&A",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "We provide 24-hour convenient customer service, allowing everyone's needs to be responded to anytime and anywhere. We strive to provide you with top-notch sofa selection needs, and any questions about purchasing sofas can be found here!"
+    },
+    "questions": {
+      "products": {
+        "title": "Products",
+        "items": [
+          {
+            "id": 1,
+            "question": "Do you have a showroom or a brick and mortar location?",
+            "answer": "We currently don't have any showrooms or brick and mortar locations. This allows us to keep our costs down so we can offer the great pricing that you see on our site! With that being said, why not just try out our furniture in your own home?! We make it easy with our no questions asked, risk-free 30-day return policy. And with quick, free shipping — the deal is even sweeter!"
+          },
+          {
+            "id": 2,
+            "question": "What is the weight capacity of Albany Park products?",
+            "answer": "Albany Park products are constructed of high-quality kiln-dried frames and your choice of solid wood or steel legs.\n\n\nSofas: up to 900 pounds; Loveseat: up to 600 pounds; Armchair: up to 350 pounds"
+          },
+          {
+            "id": 3,
+            "question": "What is your fabric made of?",
+            "answer": "Each of our fabrics are made of 100% polyester fiber. This allows our products to last longer and makes them super easy to clean and maintain."
+          },
+          {
+            "id": 4,
+            "question": "How do I care for my Albany Park furniture?",
+            "answer": "For everyday cleaning, we recommend regular vacuuming or light brushing to remove dust.\n\n\nTo clean stains: Dampen the corner of a clean white cloth with water and gently dab the stained area, turning the cloth so you’re always using a clean portion. Use a water-based, non-abrasive cleaner, mild detergent, foam, or pure, water-free solvents. Let dry naturally and vacuum when dry.\n\n\nFor difficult stains: Clean the soiled area with a 70% solution of isopropyl alcohol (rubbing alcohol) and water. Be sure to rinse the cleaned area with fresh water after applying the alcohol solution."
+          },
+          {
+            "id": 5,
+            "question": "Are Albany Park products kid-friendly?",
+            "answer": "Albany Park products are made with durability and practicality as a top priority. They're a great option for families with young children for a few reasons: all materials are 100% free of harsh chemicals, our designs are upholstered with easy-to-clean fabrics and their strong frames and legs help keep your furniture safe when little ones are jumping around on them! Some of our products include fully upholstered back and seat cushions that give you the option to flip them over. Check the Dimension & Details section of the product page to confirm if that’s an option. If you're particularly concerned about spills, you can use Scotchgard to help prevent stains."
+          },
+          {
+            "id": 6,
+            "question": "Are Albany Park products pet-friendly?",
+            "answer": "Yes! Our fabric is durable and easy to clean, which makes them great for your furry friends. Some of our products include fully upholstered back and seat cushions that give you the option to flip them over. Check the Dimension & Details section of the product page to confirm if that’s an option. If you're particularly concerned, you can use Scotchgard to help prevent stains."
+          },
+          {
+            "id": 7,
+            "question": "Can I Scotchgard my covers?",
+            "answer": "Yes! Feel free to use Scotchgard to prevent stains. Please be sure to follow the instructions carefully and start in a small, discrete area before applying to the entire area."
+          },
+          {
+            "id": 8,
+            "question": "Can I order replacement seat cushions or back cushions?",
+            "answer": "Yes! We offer both replacement seat and back cushions. Please contact hello@albanypark.com to place an order. To make the process quick and easy, please have your order number ready. You can find the order number on your emailed order confirmation or invoice."
+          },
+          {
+            "id": 9,
+            "question": "How do I request fabric swatches?",
+            "answer": "We're happy to send up to 4 fabric swatches to help you with your decision! Please request the swatch of your choice at this page."
+          },
+          {
+            "id": 10,
+            "question": "What is covered under your LIFETIME warranty?",
+            "answer": "Our products are built to last and we stand by their quality, which is why all of our products come with a lifetime warranty.\n\n\nFor the first 10 years of ownership, we’ll replace your furniture with brand new Albany Park furniture at absolutely no charge to you if yours is defective in workmanship or materials. From year 10 on, we’ll completely repair and re-cover your furniture, or replace your Albany Park furniture, waiving all transportation costs if a manufacturing defect or materials failure is confirmed to exist. For the warranty to apply, the product must have been purchased directly from Albany Park and used for its intended purpose. Products are not covered by warranty if used for commercial purposes or if the defect is due to use beyond normal wear and tear."
+          },
+          {
+            "id": 11,
+            "question": "What if I need help selecting something that will work in my space?",
+            "answer": "We are always here for you and happy to help you find the perfect piece for your home that suits your needs best. Feel free to contact our team anytime with questions or even email a picture of your space so we can help you narrow down your options to find something you love."
+          },
+          {
+            "id": 12,
+            "question": "Are your products commercial grade?",
+            "answer": "Our products are suitable for commercial use. Please reach out to us at hello@albanypark.com if you have specific commercial suitability questions."
+          },
+          {
+            "id": 13,
+            "question": "Where are your products manufactured?",
+            "answer": "We travel all over the world in search for craftsmen that will meet our customers’ needs. We currently work with manufacturers in China and Mexico. We work closely with every factory to make sure they continue to meet our strict benchmarks for ethical business practices and quality control."
+          },
+          {
+            "id": 14,
+            "question": "What's the difference between stain resistant and performance fabric?",
+            "answer": "All of our fabrics are chosen for durability and easy maintenance. Our stain resistant fabrics are coated with iClean, an upholstery protector that repels spills and stains. If you're looking for a stronger fabric that is both stain and water resistant, our performance fabric is a great choice!"
+          },
+          {
+            "id": 15,
+            "question": "Do you use flame retardants in your furniture?",
+            "answer": "No! None of our foam or fabrics contain PBDE (flame retardants) and they are certified to be free of toxic gases. We strive to do what is best for the environment and safe for your home. All of our products are compliant with revised California technical bulletin TB-117-2013."
+          }
+        ]
+      },
+      "assembly": {
+        "title": "ASSEMBLY",
+        "items": [
+          {
+            "id": 1,
+            "question": "How do I assemble my furniture?",
+            "answer": "Albany Park products are super easy to set up! All you need is 15 minutes — easily secure the arms and back to the base, then attach the legs and add the cushions! No tools needed. Watch our video to see how easy it is!"
+          },
+          {
+            "id": 2,
+            "question": "Can I set up my furniture by myself?",
+            "answer": "Most people can easily assemble Albany Park products by themselves. That's the beauty of Albany Park! If you need help or prefer to just have someone else do all the work, our partner Task Rabbit is the perfect solution to help you to lift, assemble or maybe just reconfigure your whole living room!"
+          },
+          {
+            "id": 3,
+            "question": "Do I need any tools for assembly?",
+            "answer": "You don’t need any additional tools! The only tool you use is an allen wrench to tighten the legs, but it’s provided! Click here and watch our videos to see how fast and easy the set-up is!"
+          }
+        ]
+      },
+      "ordering": {
+        "title": "ORDERING & PAYMENT",
+        "items": [
+          {
+            "id": 1,
+            "question": "How can I change or edit my order?",
+            "answer": "Please be sure to request any changes within 24 hours of placing your order by sending an email to hello@albanypark.com. For changes requested beyond the initial 24-hour window, restocking fees may apply and the estimated arrival date for the order may change."
+          },
+          {
+            "id": 2,
+            "question": "Can I cancel my order?",
+            "answer": "Contact us within 24 hours to cancel your order for a full refund by sending an email to hello@albanypark.com. Orders cancelled after 24 hours, may be subject to a restocking fee of 10% capped at $200. If your order has already shipped, unfortunately cancellation is no longer possible. Once received, you will need to return the product in accordance with our return policy."
+          },
+          {
+            "id": 3,
+            "question": "What do I do if my furniture does not fit during delivery?",
+            "answer": "This is highly unlikely! Each piece has a small footprint and can easily be maneuvered prior to assembly! You can find the specific product and box dimensions on each product page under “Dimensions and Details” on the right-hand side. There is also a detailed dimension drawing on each product page to show all the dimensions you could ever wonder about.\n\n\nPlease feel free to contact us at hello@albanypark.com with any additional questions about dimensions or the best way to measure your space. We can also provide the individual piece dimensions (before assembly), which may solve your problem!"
+          },
+          {
+            "id": 4,
+            "question": "Do you offer financing?",
+            "answer": "Yes! We offer great financing options through our lending partner Affirm. [Click Here]for more details!"
+          },
+          {
+            "id": 5,
+            "question": "How does Affirm work?",
+            "answer": "Affirm is a great alternative to credit cards when it comes to finance options and it works well with online purchases. Choosing Affirm means that you can receive your purchase right away but you won’t have to pay for it in its entirety upfront. Instead you can pay for your purchase in monthly installments."
+          },
+          {
+            "id": 6,
+            "question": "I’m not ready for my item, should I still order now or wait?",
+            "answer": "Yes! We recommend that you still order now to ensure we can ship the item when you are ready. We are happy to hold onto your item until the timing is convenient for you. Please be sure to include the shipping details in your order notes and contact us at hello@albanypark.com as soon as you place your order to ensure we put a hold on your shipment."
+          },
+          {
+            "id": 7,
+            "question": "I am concerned about submitting my credit card information online. Is it safe to place an order on your site?",
+            "answer": "Yes, absolutely safe. Your credit card information is transferred using the same 256-bit encryption and physical security that banks use."
+          }
+        ]
+      },
+      "shipping": {
+        "title": "SHIPPING & RETURNS",
+        "items": [
+          {
+            "id": 1,
+            "question": "How long will it take to receive my order?",
+            "answer": "Product pages provide our best estimates for delivery windows. A tracking number will be provided once your order has been shipped for a more accurate estimate with respect to transit time."
+          },
+          {
+            "id": 2,
+            "question": "How do I know when my order has shipped?",
+            "answer": "We will email a tracking number as soon as your order has left our warehouse to allow for easy, updated tracking from our warehouse to your front door. Please feel free to contact us with any questions at hello@albanypark.com."
+          },
+          {
+            "id": 3,
+            "question": "Will I be notified when my furniture will be delivered?",
+            "answer": "You can track your shipment via tracking number provided once your order has been shipped."
+          },
+          {
+            "id": 4,
+            "question": "Will I receive all the items in my order at the same time?",
+            "answer": "We ship your items as they are available. If all of the items on your order are in-stock and ready to ship, then you will receive them at the same time. If an item is backordered or delayed, it will ship separately, at no extra charge. If you’d prefer to have your entire order ship together, please be sure to make that note in your order or email us at hello@albanypark.com to confirm that your order is shipped at the same time."
+          },
+          {
+            "id": 5,
+            "question": "What if something is missing from my order?",
+            "answer": "Please contact our team right away at hello@albanypark.com"
+          },
+          {
+            "id": 6,
+            "question": "Can I return an item if I'm dissatisfied?",
+            "answer": "We take great pride in the quality and comfort of our goods. If for any reason you are not satisfied with your purchase, you may return the item(s) within 30 days of receiving the order.\n\n\nIn order to offer our great pricing + fast and free shipping we charge a return shipping fee equal to 10% of what you paid for the product, with the original packaging intact. If you don't have the original packaging, the fee is 20% of the paid value. The fee is always capped at $200. Additional fees may apply for returns requiring special pick-up service.\n\n\nAfter your returned product is received by Albany Park, we will examine and inspect the product and will make a determination on whether the product is in “like new\" condition. If the product is in “like new” condition, Albany Park will accept the return and will credit your original payment method for such product. Refund is subject to applicable return fees.\n\n\nIn the event that an item arrives defective or damaged, please let us know immediately upon receipt and we will make it right. Please note that if we are able to replace the damaged parts of your order, but you decide to return your order instead of receiving the replacement parts, then the order will be treated as a returned order (i.e., full refund, less the cost of return shipping).\n\n\nFor further assistance please send an email to hello@albanypark.com or call our customer service department at 1.800.681.5831"
+          },
+          {
+            "id": 7,
+            "question": "I no longer have the original packaging. Can I still make a return?",
+            "answer": "We encourage you to keep the product packaging until you are confident your new furniture is right for you. If you no longer have the original packaging, you can still return your order; however, you will need to provide the packaging for return shipping. We do not provide additional packaging for returns beyond what the item is shipped in."
+          },
+          {
+            "id": 8,
+            "question": "What are the shipping and delivery options?",
+            "answer": "All Albany Park products are shipped for free to your curbside! We deliver to the 48 contiguous states & D.C. Currently we are not shipping to Hawaii, Alaska nor any other country besides the USA."
+          },
+          {
+            "id": 9,
+            "question": "What if my furniture is damaged during shipping?",
+            "answer": "No need to stress - we will send you replacement parts or replace the item if necessary. If you notice the packaging or item is damaged upon delivery, please refuse the item from the shipping company and contact us. If you notice the damage after delivery, please take a few photos and send them to hello@albanypark.com within 24 hours of delivery. Our team will assess the damage and find the best way to fix the issue.\n\n\nPlease note that if damages are not communicated within 24 hours after delivery, it will be difficult to claim the damage was due to the transit. Please be sure to inspect your delivery as soon as possible to avoid any possible replacement costs."
+          },
+          {
+            "id": 10,
+            "question": "I received the wrong product. What should I do?",
+            "answer": "Please contact our team right away at hello@albanypark.com"
+          },
+          {
+            "id": 11,
+            "question": "Can I schedule my delivery?\n",
+            "answer": "Albany Park offers free shipping for all orders. While we're able to provide an estimated delivery date and timeframe, we do not currently offer the option to schedule deliveries."
+          },
+          {
+            "id": 12,
+            "question": "Can I request a signature for delivery?",
+            "answer": "If you require a signature upon delivery, please leave a message in the notes upon checkout. We will try to accommodate as much as possible, but some additional fees may apply."
+          },
+          {
+            "id": 13,
+            "question": "Can I expedite my delivery?",
+            "answer": "Unfortunately we are not able to expedite deliveries at this time. We will ship your order as soon as it’s available. At that time, you will receive a confirmation email with details to track your order.\n\n\nIf you are moving or have a specific delivery date request, please be sure to email us at hello@albanypark.com so we can do our best to accommodate your needs!"
+          }
+        ]
+      }
+    },
+    "contact": "DIDN’T FIND WHAT YOU WERE LOOKING FOR?",
+    "button": "Contact Us"
+  }
+}

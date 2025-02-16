@@ -1,0 +1,32 @@
+/*
+全局样式文件
+在本文件下的所有样式，任何页面下可以直接引用
+*/
+
+/*引入字体样式：抖音字体       https://github.com/bytedance/fonts */
+@font-face {
+    font-family: 'DouyinSansBold';
+    src: url('/font/DouyinSansBold.ttf') format('truetype');
+}
+
+/*引入字体样式：英文字体    https://www.cdnfonts.com/buttershine-serif.font */
+@font-face {
+    font-family: 'buttershine-serif';
+    src: url('/font/buttershine-serif/buttershineSerif.woff') format('woff');
+}
+
+/**
+字体样式
+优先字体：buttershine-serif
+备用字体：DouyinSansBold（抖音字体）、sans-serif（无衬线字体）
+ */
+.font-buttershine-serif {
+    font-family: 'buttershine-serif', 'DouyinSansBold', sans-serif;
+}
+
+/**
+抖音字体
+ */
+.font-douyin-serif {
+    font-family: 'DouyinSansBold', sans-serif;
+}

@@ -1,0 +1,735 @@
+{
+  "shop": {
+    "seo": {
+      "title": "Albany官网-首页",
+      "ogTitle": "这是一个企业SEO官网模板，集成nux3、Nuxt3、tailwindcss、vuetify响应式官网模板",
+      "description": "探索我们的开源Nuxt3与Vue3响应式模板官网，专为追求高性能、SEO优化及灵活定制的网站开发者设计。快速启动您的现代企业级官网项目，享受无缝的开发体验,助力开发者快速构建现代、搜索引擎友好的网站。",
+      "ogDescription": "我们是世界顶级沙发，中国最好的沙发，深圳批发沙发，出售一切家私，让您的别墅充满温馨和现代化家居。"
+    },
+    "appBar": {
+      "title": [
+        {
+          "link": "/",
+          "name": "购物"
+        },
+        {
+          "link": "/videos",
+          "name": "视频"
+        },
+        {
+          "link": "/our-story",
+          "name": "我们的故事"
+        },
+        {
+          "link": "/faq",
+          "name": "解答问题"
+        },
+        {
+          "link": "/contact-us",
+          "name": "联系我们"
+        }
+      ]
+    },
+    "body": {
+      "photos": [
+        {
+          "id": "0",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/0802dfa7291d4ad9701a.jpg"
+        },
+        {
+          "id": "1",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/273827455_10160367429837668_8648767521590626263_n.webp"
+        },
+        {
+          "id": "2",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__ashleywalseman.webp"
+        },
+        {
+          "id": "3",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__becominghomebody.webp"
+        },
+        {
+          "id": "4",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__emilywondree.webp"
+        },
+        {
+          "id": "5",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__emilywondree2.webp"
+        },
+        {
+          "id": "6",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__glamorouslyliving_.webp"
+        },
+        {
+          "id": "7",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__halfwaywholeistic_.webp"
+        },
+        {
+          "id": "8",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/__johnston.designs_.jpeg"
+        },
+        {
+          "id": "9",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/_decoratingnewbuild__.webp"
+        },
+        {
+          "id": "10",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/_jamiesyang.webp"
+        },
+        {
+          "id": "11",
+          "image": "http://oss-cdn.tearful.cn/shop/home/photo/d09ec57756e08dd0ed21.jpg"
+        }
+      ],
+      "featured": "著名合作伙伴",
+      "choose": {
+        "title1": "请选择您喜欢的风格.",
+        "title2": "我们的系列在设计时考虑到了每个人",
+        "shopList": [
+          {
+            "id": 1,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_kova_sale_448x384.jpg",
+            "title": "Kova",
+            "star": 4.8,
+            "price": "$1,389",
+            "monthPrice": "$116",
+            "fabric": "12 Fabric Options",
+            "leg": "Modular Configurations",
+            "shop": "Shop Kova"
+          },
+          {
+            "id": 2,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_lido_sale_448x384.webp",
+            "title": "Lido",
+            "star": 5,
+            "price": "$1,359",
+            "monthPrice": "$114",
+            "fabric": "10 Fabric Options",
+            "leg": "4 Leg Options",
+            "shop": "Shop Lido"
+          },
+          {
+            "id": 3,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_barton_sale_448x384.webp",
+            "title": "Barton",
+            "star": 5,
+            "price": "$1,550",
+            "monthPrice": "$130",
+            "fabric": "10 Fabric Options",
+            "leg": "3 Leg Options",
+            "shop": "Shop Barton"
+          },
+          {
+            "id": 4,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_park_sale_c7d19cc0-2bd0-4ba5-a7eb-aafe666565d6_448x384.webp",
+            "title": "Park",
+            "star": 4.8,
+            "price": "$1,249",
+            "monthPrice": "$113",
+            "fabric": "8 Fabric Options",
+            "leg": "2 Leg Options",
+            "shop": "Shop Park"
+          },
+          {
+            "id": 5,
+            "imageUrl": "http://oss-cdn.tearful.cn/shop/choose/AP_collection_comparison_1200x1067_albany_sale_448x384.webp",
+            "title": "Albany",
+            "star": 4.8,
+            "price": "$1,149",
+            "monthPrice": "$105",
+            "fabric": "8 Fabric Options",
+            "leg": "2 Leg Options",
+            "shop": "Shop Albany"
+          }
+        ],
+        "shopIcons": [
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_HighQualityMaterials_d1edb708-e0a5-4eaa-9455-28b5d40c29d3_96x96.avif",
+            "id": 1,
+            "title": "高质量材料",
+            "text": "Albany Park采用硬木框架、高端面料和优质泡沫和羽毛缓冲材料手工打造。"
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_96x96.avif",
+            "id": 2,
+            "title": "快速+免费送货",
+            "text": "免费送货到您的家门口，装在公寓友好的箱子里。30天内归还货，无需任何理由。"
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TopRated_9529d4c2-833e-4003-909d-a47c44db09b4_96x96.avif",
+            "id": 3,
+            "title": "最高评级",
+            "text": "目标：客户满意度。我们的价格是竞争对手的一半，舒适（和华丽）的两倍——有什么不喜欢的呢？"
+          },
+          {
+            "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_AwardWinningCustomerService_078866f3-e0b6-4b76-b284-9fb34a19ea1c_96x96.avif",
+            "id": 4,
+            "title": "A+客户服务",
+            "text": "我们全心全意为您服务。我们总是只是短信、电话或聊天。打个招呼！"
+          }
+        ]
+      },
+      "myAlbanyPark": {
+        "title": "奥尔巴尼公园主题",
+        "subtitle": "与我们分享您的奥尔巴尼公园风格，并获得灵感！邀请添加您的照片",
+        "unique_title": "奥尔巴尼公园的独特之处是什么？",
+        "unique_subtitle": "对于设计标准毫不妥协",
+        "unique_text1": "奥尔巴尼公园旨在供人居住、喜爱、经常使用和享受。我们舒适的精选系列和美观耐用的面料确保了无与伦比的质量。因为说到舒适，你永远不应该妥协。",
+        "unique_text2": "既舒服点、又漂亮，在家里就能享受。",
+        "apart_title": "奥尔巴尼公园还有什么与众不同的地方？",
+        "icon_title": "拥有优质家具再容易不过了"
+      },
+      "qualityIcons": [
+        {
+          "id": 1,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_128x128.webp",
+          "title": "快速+包邮"
+        },
+        {
+          "id": 2,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x128.webp",
+          "title": "易于组装"
+        },
+        {
+          "id": 3,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_PayOverTime_bdd0257b-3cfe-4183-b0e7-e65f6712e646_128x128.webp",
+          "title": "便捷支付"
+        },
+        {
+          "id": 4,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_Moveable_c0b302bb-ac2c-4b7b-aa83-93cdf27d0b1d_128x128.webp",
+          "title": "易于移动"
+        },
+        {
+          "id": 5,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TotalComfort_048bf982-21e0-4159-971f-fa91a93f9e41_128x128.webp",
+          "title": "温馨舒适"
+        },
+        {
+          "id": 6,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_30DayInHomeTrial_c33c4fb9-87a1-47a7-b496-366ba1fbd330_128x128.webp",
+          "title": "30天无理由试用"
+        },
+        {
+          "id": 7,
+          "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x128.webp",
+          "title": "终身保修"
+        }
+      ],
+      "assemble_card": {
+        "assemble_title": "易于移动+组装",
+        "assemble_text1": "奥尔巴尼公园家具包装在适合公寓使用的、注重空间的盒子里，可以在楼梯间、狭窄的走廊和任何家庭中轻松操作。组装一个奥尔巴尼公园确实需要15分钟——我们保证！",
+        "assemble_text2": "我们就是这么容易。",
+        "coziness_title": "提供既舒适又安逸",
+        "coziness_text": "准备好拥抱巨大的舒适吧！我们希望您喜欢会奥尔巴尼公园的家具，您的新沙发可能需要几天的快递时间。并且在试用30天期间，如果您不喜欢，我们会上门退货，无需任何理由。"
+      },
+      "buyer": [
+        {
+          "id": 1,
+          "imageUrl": "http://cdn.shopifycdn.net/s/files/1/0074/7077/6371/files/Review_Image_Kova_80x80.jpg",
+          "text": "我想我爱这张沙发胜过世界上任何东西（当然除了我的丈夫和我的狗）。",
+          "title": "– 切尔西 O.（已验证买家）"
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://cdn.shopifycdn.net/s/files/1/0074/7077/6371/files/Review_Image_Barton_80x80.jpg",
+          "text": "我们都在奥尔巴尼公园的巴顿一起买它了，100%不后悔！它非常宽敞，易于清洁，柔软。",
+          "title": "– 弗里 W. (已验证买家)"
+        }
+      ],
+      "popular": [
+        {
+          "id": 1,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-L-SHAPE-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova款 L型沙发 + 脚凳",
+          "price": "$3,345",
+          "discount": "$2,499"
+        },
+        {
+          "id": 2,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/LIDO_20SOFA_2086_384x352.webp",
+          "title": "Lido沙发86寸",
+          "price": "$1,659",
+          "discount": "$1,394 "
+        },
+        {
+          "id": 3,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/barton-storm-grey-walnut_384x352.png",
+          "title": "Barton款沙发",
+          "price": "$1,659",
+          "discount": "$1,394"
+        },
+        {
+          "id": 4,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVAPIT-boucle_384x352.webp",
+          "title": "Kova 皮特",
+          "price": "$3,994",
+          "discount": "$2,994"
+        },
+        {
+          "id": 5,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/2030.FS30.CN1_384x352.png",
+          "title": "Lido 单人沙发椅",
+          "price": "$1,019",
+          "discount": "$864"
+        },
+        {
+          "id": 6,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-SOFA-84-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova Sofa 8ó\" + Ottoman",
+          "price": "$2,047",
+          "discount": "$1,534"
+        },
+        {
+          "id": 7,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-SOFA-_-OTTOMAN-boucle_384x352.webp",
+          "title": "Kova Sofa 122\"+Ottoman",
+          "price": "$2,696",
+          "discount": "$1,994"
+        },
+        {
+          "id": 8,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/lido-hazelnut-boucle-brass_384x352.webp",
+          "title": "Lido Sofa 75\"",
+          "price": "$1,459",
+          "discount": "$1,164"
+        },
+        {
+          "id": 9,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-sectional-sofa_distressed-vegan-leather-black-right-facing_1b_384x352.png",
+          "title": "Park Sectional Sofa",
+          "price": "$2,089",
+          "discount": "$1,459"
+        },
+        {
+          "id": 10,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-sofa_boucle-gold_1b_384x352.webp",
+          "title": "Park Sofa",
+          "price": "$1,289",
+          "discount": "$899"
+        },
+        {
+          "id": 11,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/park-armchair-grey-fabric-gold-front-b_384x352.webp",
+          "title": "Park Armchair",
+          "price": "$789",
+          "discount": "$549"
+        },
+        {
+          "id": 12,
+          "saleUrl": "http://oss-cdn.tearful.cn/shop/home/albany-park-sale-badge_400x400.svg",
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/popular/KOVA-L-SHAPE-white-boucle_384x352.webp",
+          "title": "Kova L-Shape",
+          "price": "$2,796",
+          "discount": "$2,094"
+        }
+      ],
+      "brandIcons": [
+        {
+          "id": 1,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x96.webp",
+          "title": "快速、简单的组装",
+          "text": "组装很容易。它只需要15分钟（或更短）。说真的。观看我们的视频，看看它有多容易。"
+        },
+        {
+          "id": 2,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x96.webp",
+          "title": "终身保修",
+          "text": "只要您拥有这些家具，我们就为奥尔巴尼公园提供保修。我们自豪地支持我们作品的工艺。"
+        },
+        {
+          "id": 3,
+          "imageUrl": "http://oss-cdn.tearful.cn/shop/home/AlbanyPark_Icon_InterestFreeFinancing_f7ed2c5a-09c6-493b-b43d-731518c2b7ff_128x96.webp",
+          "title": "无息融资",
+          "text": "立即下订单，并随时间与我们的合作伙伴Affirm付款。选择一个六个月的计划，并支付零利息。了解更多。。。"
+        }
+      ]
+    },
+    "collections": {
+      "kova": {
+        "october": [
+          {
+            "text": "Custom Made to Order"
+          },
+          {
+            "text": "Handmade in North America"
+          },
+          {
+            "text": "Contract-Grade"
+          },
+          {
+            "text": "Lifetime Warranty"
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "seo": {
+      "title": "Albany官网-视频展示",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "展示出中国顶级沙发的介绍，视频介绍购买Albany沙发安装是如此的简单，此沙发具有轻便、耐磨、精美等优点"
+    },
+    "items": [
+      {
+        "id": 1,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/KOVA_ASSEMBLYVIDEO_928x672_1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/lbOmcCR3CvA?&loop=1",
+        "title": "Kova款 组装",
+        "text": "世界上最舒适的沙发也是一件轻而易举的事。坐下来，放松一下，看看组装你的新Kova沙发有多容易。只需将背部和手臂滑到钢支架上，将垫子放在上面，然后舒适起来！"
+      },
+      {
+        "id": 2,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Cover_image_Barton_v1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/0g4bhtpna5A?&loop=1",
+        "title": "Barton款 组装",
+        "text": "巴顿很时尚，很舒适，很容易组装！你所需要的只是几分钟。但不要只相信我们的话——看着我们组装巴顿，亲自检查。此外，Barton装在适合公寓的箱子里，可以在任何家庭中轻松操作。"
+      },
+      {
+        "id": 3,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Cover_image_Lido_v1_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/6m3UMbL4Zkc?&loop=1",
+        "title": "Lido款 组装",
+        "text": "每一个丽都都包装在公寓友好、注重空间的盒子里，你可以在楼梯间、狭窄的走廊和任何家庭中移动。组装大约需要5分钟——说真的。只需拆箱，把碎片锁在一起，就可以舒适了。"
+      },
+      {
+        "id": 4,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/Screen_Shot_2019-08-08_at_11.29.56_AM_480x288.webp",
+        "videoUrl": "http://www.youtube.com/embed/9zyDnnGrY_I?&loop=1",
+        "title": "Albany款 组装",
+        "text": "奥尔巴尼议会\n怀孕9个月时，我们的联合创始人杰西卡独自组装了一张奥尔巴尼沙发。Albany Park家具包装在公寓友好、注重空间的盒子里，可以在楼梯间、狭窄的走廊和任何家庭中轻松操作。组装一个奥尔巴尼公园真的需要15分钟——看杰西卡！"
+      },
+      {
+        "id": 5,
+        "imageUrl": "http://oss-cdn.tearful.cn/shop/videos/PARK_ASSEMBLYVIDEO_4413c0c7-c484-48bc-9b2e-c0f22ac8e29a_480x352.webp",
+        "videoUrl": "http://www.youtube.com/embed/V5_Go8ku7qo?&loop=1",
+        "title": "Park款 组装",
+        "text": "组装公园沙发再简单不过了。只需打开包装，将各个部分锁在一起，几分钟后你就可以享受你的全新沙发了！公园沙发系列以易于移动的盒子快速送达，专门设计用于在狭小的空间内移动。"
+      }
+    ],
+    "qualityIcons": [
+      {
+        "id": 1,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_FastFreeDelivery_000992f1-cf83-426e-b288-119b07f99eb6_128x128.webp",
+        "title": "快速+免费送货"
+      },
+      {
+        "id": 2,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_QuickEasyAssembly_7c404229-15d9-41a8-a433-faa8625f54cd_128x128.webp",
+        "title": "易于组装"
+      },
+      {
+        "id": 3,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_PayOverTime_bdd0257b-3cfe-4183-b0e7-e65f6712e646_128x128.webp",
+        "title": "便捷支付"
+      },
+      {
+        "id": 4,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_Moveable_c0b302bb-ac2c-4b7b-aa83-93cdf27d0b1d_128x128.webp",
+        "title": "易于移动"
+      },
+      {
+        "id": 5,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TotalComfort_048bf982-21e0-4159-971f-fa91a93f9e41_128x128.webp",
+        "title": "绿色纯天然"
+      },
+      {
+        "id": 6,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_TotalComfort_048bf982-21e0-4159-971f-fa91a93f9e41_128x128.webp",
+        "title": "温馨舒适"
+      },
+      {
+        "id": 7,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_30DayInHomeTrial_c33c4fb9-87a1-47a7-b496-366ba1fbd330_128x128.webp",
+        "title": "30天无理由"
+      },
+      {
+        "id": 8,
+        "url": "http://oss-cdn.tearful.cn/shop/icons/AlbanyPark_Icon_LifetimeWarranty_3b300299-d83d-4f71-9478-df5213b5898f_128x128.webp",
+        "title": "终身保修"
+      }
+    ]
+  },
+  "our_story": {
+    "seo": {
+      "title": "我们的故事",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "我们的故事，本沙发终身保修保证了卓越的工艺和持久的安心，让家里变得再舒服点、再漂亮一点。"
+    },
+    "items": [
+      {
+        "id": 0,
+        "title": "我们的故事",
+        "text": [
+          "杰西卡·罗斯需要一张新沙发。由于家庭繁忙，她想要一些做工精良、舒适、耐用……而且仍然漂亮的东西。",
+          "她尝试了设计师展厅，但被数百种平淡无奇、定价过高、生产过剩的选择所失望，更不用说来自销售人员的不受欢迎的压力了。如果家具价格合理，质量就会很差。如果质量更高，价格就会过高。如果它是为适合她的家人而定制的，那么需要几个月的时间才能到达。",
+          "空手而归，充满沮丧，杰西卡知道一定有更好的方法。如果她找不到一家提供她所需一切的公司，她会创建一家这样的公司。"
+        ],
+        "special": ""
+      },
+      {
+        "id": 1,
+        "title": "就这样奥尔巴尼公园诞生!",
+        "text": [
+          "杰西卡对奥尔巴尼公园有一个简单的目标：不再妥协。不再有压力。不再有失望和数周的等待。没有更便宜的产品最终被填埋。精心策划的系列，以潮流设计、值得信赖的高质量建筑和每个人都能负担得起的价格为特色，但并非每个制造商都能提供。",
+          "她知道她需要一个能够实现梦想的制造合作伙伴。"
+        ],
+        "special": ""
+      },
+      {
+        "id": 2,
+        "title": "她在Exemplis发现了这一点",
+        "text": [
+          "近30年来，Exemplis一直是商业家具行业值得信赖的领导者，提供定制、按订单制造、合同级的产品，经得起生活的磨损。他们的家具在加利福尼亚州设计，在北美自己的工厂手工制作，并在几天（而不是几个月）内运送给客户。",
+          "无论是孩子、狗、朋友还是邻居……家具都是家人聚会的地方。这是你家的主心骨。我们很自豪能帮助您打造宜居、可爱、持久的系列。"
+        ],
+        "special": ""
+      },
+      {
+        "id": 3,
+        "title": "我们认为你永远不应该妥协",
+        "text": [
+          "这就是为什么我们提供无与伦比的价值。我们的家具专业知识和制造工艺提供了无与伦比的质量，在北美按订单生产，并使用合同级标准经久耐用……所有这些都是领先竞争对手的时间和成本的一小部分。",
+          "你的家具应该是终身制作的，而不是垃圾填埋场。我们的终身保修保证了卓越的工艺和持久的安心。",
+          "因为你值得拥有制作精美、舒适、耐用的东西……同时看起来令人难以置信。"
+        ],
+        "special": "让家里变得再舒服点、再漂亮一点。"
+      }
+    ]
+  },
+  "faq": {
+    "seo": {
+      "title": "技术支持问答",
+      "ogTitle": "",
+      "description": "",
+      "ogDescription": "我们提供24小时便利客服服务，让每个人的需求可以随时随地响应，尽可能给您提供顶级的沙发选购需求，购买沙发的任何问题都能在这里找到！"
+    },
+    "questions": {
+      "products": {
+        "title": "产品问题",
+        "items": [
+          {
+            "id": 1,
+            "question": "你有展厅还是实体店?",
+            "answer": "我们目前没有任何展厅或实体店。这使我们能够降低成本，这样我们就可以提供您在我们网站上看到的优惠价格！话虽如此，为什么不在自己家里试用我们的家具呢？！我们的无问题、无风险的30天退货政策让这一切变得简单起来。而且，通过快速、免费的运输，交易更加甜蜜!"
+          },
+          {
+            "id": 2,
+            "question": "Albany Park产品的承重能力是多少？",
+            "answer": "Albany Park的产品由高品质的窑干框架和您选择的实木或钢腿制成。\n\n\n沙发：可承重408KG；Loveseat款：可承重272KG；扶手椅：重达158KG"
+          },
+          {
+            "id": 3,
+            "question": "沙发的布料是什么做的？",
+            "answer": "我们的每一种面料都是由100%聚酯纤维制成的。这使我们的产品寿命更长，并且非常易于清洁和维护。"
+          },
+          {
+            "id": 4,
+            "question": "我该如何保养我的奥尔巴尼公园家具？",
+            "answer": "我该如何保养我的奥尔巴尼公园家具？对于日常清洁，我们建议定期吸尘或轻刷以去除灰尘。\n\n\n清洁污渍：用水浸湿干净白布的角落，轻轻擦拭污渍区域，转动布，这样你就可以始终使用干净的部分。使用水基、非磨蚀性清洁剂、温和洗涤剂、泡沫或纯无水溶剂。自然干燥，干燥后用真空吸尘。\n\n\n对于难以去除的污渍：用70%的异丙醇（擦拭酒精）和水溶液清洁污渍区域。涂抹酒精溶液后，一定要用清水冲洗干净的区域。"
+          },
+          {
+            "id": 5,
+            "question": "奥尔巴尼公园的产品对儿童友好吗？",
+            "answer": "奥尔巴尼公园的产品对儿童友好吗？Albany Park的产品以耐用性和实用性为重。对于有年幼孩子的家庭来说，它们是一个很好的选择，原因有几个：所有材料都100%不含刺激性化学物质，我们的设计采用易于清洁的织物装饰，其坚固的框架和腿有助于在孩子们蹦蹦跳跳时保持家具的安全！我们的一些产品包括完全软垫的靠背和座垫，您可以选择翻转它们。检查产品页面的“尺寸和详细信息”部分，确认这是否是一个选项。如果你特别担心溢出，你可以使用Scotchgard来帮助防止污渍。"
+          },
+          {
+            "id": 6,
+            "question": "奥尔巴尼公园的产品对宠物友好吗？",
+            "answer": "对！我们的面料经久耐用，易于清洁，非常适合您的毛茸茸的朋友。我们的一些产品包括完全软垫的靠背和座垫，您可以选择翻转它们。检查产品页面的“尺寸和详细信息”部分，确认这是否是一个选项。如果你特别担心，你可以使用Scotchgard来帮助防止污渍。"
+          },
+          {
+            "id": 7,
+            "question": "我可以用围巾盖住我的沙发吗？",
+            "answer": "对！请随意使用Scotchgard来防止污渍。请务必仔细遵循说明，在应用于整个区域之前，先从一个小的、离散的区域开始。"
+          },
+          {
+            "id": 8,
+            "question": "我可以订购替换座垫或靠背垫吗？",
+            "answer": "可以的！我们提供替换座椅和靠背垫。请联系hello@albanypark.com下订单。为了使流程快速简单，请准备好您的订单号。您可以在通过电子邮件发送的订单确认或发票上找到订单号。"
+          },
+          {
+            "id": 9,
+            "question": "我如何申请织物样本？",
+            "answer": "我们很乐意发送多达4个织物样本来帮助您做出决定！请在此页面索取您选择的样品。"
+          },
+          {
+            "id": 10,
+            "question": "终身保修涵盖哪些内容？",
+            "answer": "我们的产品经久耐用，我们坚持质量，这就是为什么我们所有的产品都有终身保修。\n\n\n在所有权的前10年，如果您的家具在工艺或材料上有缺陷，我们将免费为您更换全新的奥尔巴尼公园家具。从第10年开始，我们将完全维修并重新覆盖您的家具，或更换您的奥尔巴尼公园家具，如果确认存在制造缺陷或材料故障，我们将免除所有运输费用。为了适用保修，产品必须直接从奥尔巴尼公园购买并用于其预期目的。如果产品用于商业目的，或者缺陷是由于使用超出正常磨损造成的，则不在保修范围内。"
+          },
+          {
+            "id": 11,
+            "question": "如果我需要帮助选择适合我空间的东西怎么办？",
+            "answer": "我们随时为您服务，很乐意帮助您找到最适合您需求的完美家居用品。欢迎随时联系我们的团队提出问题，甚至通过电子邮件发送您的空间图片，这样我们就可以帮助您缩小选择范围，找到您喜欢的东西。"
+          },
+          {
+            "id": 12,
+            "question": "你们的产品是商业级的吗？",
+            "answer": "我们的产品适合商业用途。请通过以下方式联系我们hello@albanypark.com如果您有特定的商业适用性问题。"
+          },
+          {
+            "id": 13,
+            "question": "你们的产品是在哪里生产的？",
+            "answer": "我们走遍世界各地，寻找能够满足客户需求的工匠。我们目前与中国和墨西哥的制造商合作。我们与每家工厂密切合作，确保他们继续符合我们严格的道德商业实践和质量控制标准。"
+          },
+          {
+            "id": 14,
+            "question": "防污面料和性能面料有什么区别？",
+            "answer": "我们所有的面料都经过精心挑选，经久耐用，易于维护。我们的防污织物涂有iClean，这是一种室内装饰保护剂，可以防止溢出和污渍。如果您正在寻找一种既防污又防水的更结实的织物，我们的高性能织物是一个不错的选择！"
+          },
+          {
+            "id": 15,
+            "question": "你在家具中使用阻燃剂吗？",
+            "answer": "不我们的泡沫或织物都不含多溴二苯醚（阻燃剂），并且经过认证不含有毒气体。我们努力做到对环境最好，对您的家安全。我们所有的产品都符合修订后的加州技术公告TB-117-2013。"
+          }
+        ]
+      },
+      "assembly": {
+        "title": "组装问题",
+        "items": [
+          {
+            "id": 1,
+            "question": "我该如何组装家具?",
+            "answer": "奥尔巴尼公园的产品非常容易安装！你只需要15分钟——轻松地将手臂和背部固定在底座上，然后连接腿并添加垫子！不需要任何工具。观看我们的视频，看看它有多简单!"
+          },
+          {
+            "id": 2,
+            "question": "我可以自己布置家具吗？",
+            "answer": "大多数人可以自己轻松组装奥尔巴尼公园的产品。这就是奥尔巴尼公园的美丽！如果您需要帮助或希望由他人完成所有工作，我们的合作伙伴Task Rabbit是帮助您提升、组装或重新配置整个客厅的完美解决方案！"
+          },
+          {
+            "id": 3,
+            "question": "我需要组装工具吗？\n",
+            "answer": "你不需要任何额外的工具！你唯一使用的工具是六角扳手来拧紧腿，但它是提供的！单击此处并观看我们的视频，了解设置的速度和简单程度！"
+          }
+        ]
+      },
+      "ordering": {
+        "title": "订购和付款",
+        "items": [
+          {
+            "id": 1,
+            "question": "如何更改或编辑订单？",
+            "answer": "请务必在下单后24小时内发送电子邮件至hello@albanypark.com.对于超过最初24小时窗口的更改请求，可能会收取重新进货费，订单的预计到达日期可能会更改。"
+          },
+          {
+            "id": 2,
+            "question": "我可以取消订单吗？",
+            "answer": "在24小时内联系我们，通过发送电子邮件至取消您的订单以获得全额退款hello@albanypark.com.24小时后取消的订单可能需要支付10%的重新进货费，最高200美元。如果您的订单已经发货，很遗憾无法再取消。收到产品后，您需要按照我们的退货政策退货。"
+          },
+          {
+            "id": 3,
+            "question": "如果我的家具在交付过程中不合适，我该怎么办？",
+            "answer": "这是极不可能的！每个部件的占地面积都很小，在组装之前可以轻松操作！您可以在右侧的“尺寸和详细信息”下的每个产品页面上找到特定的产品和盒子尺寸。每个产品页面上都有一张详细的尺寸图，可以显示您可能想知道的所有尺寸。\n\n\n请随时通过与我们联系hello@albanypark.com关于尺寸或测量空间的最佳方式的任何其他问题。我们还可以提供单个零件的尺寸（组装前），这可能会解决您的问题！"
+          },
+          {
+            "id": 4,
+            "question": "你们提供融资吗？",
+            "answer": "对！我们通过我们的贷款合作伙伴Affirm提供优质的融资选择。[点击此处]了解更多详情！"
+          },
+          {
+            "id": 5,
+            "question": "Affirm是如何工作的？",
+            "answer": "在金融选择方面，Affirm是信用卡的一个很好的替代品，它可以很好地用于在线购物。选择Affirm意味着你可以立即收到你的购买，但你不必提前支付全部费用。相反，您可以按月分期付款。"
+          },
+          {
+            "id": 6,
+            "question": "我还没有准备好我的商品，我应该现在就点还是等一下？",
+            "answer": "对我们建议您现在仍然订购，以确保我们可以在您准备好后发货。我们很乐意保留您的物品，直到您方便的时候为止。请确保在您的订单备注中包含运输详细信息，并通过与我们联系hello@albanypark.com一旦您下订单，以确保我们暂停您的发货。"
+          },
+          {
+            "id": 7,
+            "question": "我担心在网上提交我的信用卡信息。在您的网站上下单安全吗？",
+            "answer": "是的，绝对安全。您的信用卡信息使用与银行相同的256位加密和物理安全进行传输。"
+          }
+        ]
+      },
+      "shipping": {
+        "title": "运输和退货",
+        "items": [
+          {
+            "id": 1,
+            "question": "收到我的订单需要多长时间？",
+            "answer": "产品页面提供了我们对交付窗口的最佳估计。一旦您的订单发货，我们将提供一个跟踪号码，以便更准确地估计运输时间。"
+          },
+          {
+            "id": 2,
+            "question": "我如何知道我的订单何时发货？",
+            "answer": "一旦您的订单离开我们的仓库，我们将通过电子邮件发送一个跟踪号码，以便从我们的仓库到您的前门进行简单、更新的跟踪。如有任何问题，请随时与我们联系，网址为hello@albanypark.com."
+          },
+          {
+            "id": 3,
+            "question": "我的家具什么时候送到会通知我吗？",
+            "answer": "您可以通过订单发货后提供的跟踪号码来跟踪您的发货情况。"
+          },
+          {
+            "id": 4,
+            "question": "我会同时收到订单中的所有商品吗？",
+            "answer": "我们会在您的物品可用时发货。如果您订单上的所有商品都有库存并准备发货，那么您将同时收到它们。如果一件商品被延期订购或延迟，它将单独发货，不收取额外费用。如果您希望将整个订单一起发货，请务必在订单中注明，或发送电子邮件至hello@albanypark.com以确认您的订单同时发货。"
+          },
+          {
+            "id": 5,
+            "question": "如果我的订单少了什么怎么办？",
+            "answer": "请立即联系我们的团队：hello@albanypark.com"
+          },
+          {
+            "id": 6,
+            "question": "如果我不满意，可以退货吗？",
+            "answer": "我们对商品的质量和舒适度感到非常自豪。如果出于任何原因，您对自己的购买不满意，您可以在收到订单后30天内退货。\n\n\n为了提供我们的优惠价格+快速免费送货，我们收取相当于您购买产品的10%的退货运费，原始包装完好无损。如果你没有原始包装，费用是支付价值的20%。费用的上限总是200美元。需要特殊接送服务的退货可能会收取额外费用。\n\n\n奥尔巴尼公园收到您退回的产品后，我们将对产品进行检查，并确定产品是否处于“全新”状态。如果产品处于“全新的”状态，奥尔巴尼公园将接受退货，并将该产品的原始付款方式记入您的贷方。退款需支付相应的退货费。\n\n\n如果商品到货时有缺陷或损坏，请在收到后立即通知我们，我们将予以纠正。请注意，如果我们能够更换您订单中损坏的零件，但您决定退回订单而不是收到更换零件，则该订单将被视为退回订单（即全额退款，减去退货运费）。\n\n\n如需进一步帮助，请发送电子邮件至hello@albanypark.com或致电我们的客户服务部1.800.681.5831"
+          },
+          {
+            "id": 7,
+            "question": "我不再有原来的包装了。我还能退货吗？",
+            "answer": "我们鼓励您保留产品包装，直到您确信您的新家具适合您为止。如果您不再有原始包装，您仍然可以退货；但是，您需要提供退货包装。我们不为退货提供额外的包装，超出了货物的装运范围。"
+          },
+          {
+            "id": 8,
+            "question": "有哪些运输和交付选项？",
+            "answer": "奥尔巴尼公园的所有产品都免费运送到您的路边！我们向48个毗邻的州和哥伦比亚特区发货。目前，我们不向夏威夷、阿拉斯加或除美国以外的任何其他国家发货。"
+          },
+          {
+            "id": 9,
+            "question": "如果我的家具在运输过程中损坏了怎么办？",
+            "answer": "无需强调-如有必要，我们将向您发送更换零件或更换物品。如果您在交货时注意到包装或物品损坏，请拒绝运输公司的物品并与我们联系。如果您在交付后注意到损坏，请拍几张照片并发送到hello@albanypark.com交货后24小时内。我们的团队将评估损失并找到解决问题的最佳方法。\n\n\n请注意，如果在交付后24小时内未告知损坏情况，则很难声称损坏是由于运输造成的。请务必尽快检查您的交货情况，以避免任何可能的更换费用。"
+          },
+          {
+            "id": 10,
+            "question": "我收到了错误的产品。我该怎么办？",
+            "answer": "请立即联系我们的团队：hello@albanypark.com"
+          },
+          {
+            "id": 11,
+            "question": "我可以安排送货吗？",
+            "answer": "奥尔巴尼公园为所有订单提供免费送货服务。虽然我们能够提供预计的交货日期和时间表，但我们目前不提供安排交货的选项。"
+          },
+          {
+            "id": 12,
+            "question": "我可以要求签收吗？",
+            "answer": "如果您需要在交付时签名，请在结账时在备注中留言。我们将尽可能多地提供住宿，但可能会收取一些额外费用。"
+          },
+          {
+            "id": 13,
+            "question": "我能加快交货吗？",
+            "answer": "不幸的是，我们目前无法加快交货速度。我们会在你的订单一有货就发货。届时，您将收到一封包含详细信息的确认电子邮件，以跟踪您的订单。\n\n\n如果您要搬家或有特定的交货日期要求，请务必发送电子邮件至hello@albanypark.com所以我们可以尽最大努力满足您的需求！"
+          }
+        ]
+      }
+    },
+    "contact": "没有找到你要找的东西？",
+    "button": "联系我们"
+  }
+}
